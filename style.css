@@ -1,0 +1,18 @@
+main {
+  display: flex;
+}
+div {
+  margin-left: 10px;
+  width: 210px;
+}
+
+input {
+  width: 50px;
+  height: 20px0;
+}
+
+button {
+  margin-top: 10px;
+  text-align: center;
+  width: 32px;
+}
